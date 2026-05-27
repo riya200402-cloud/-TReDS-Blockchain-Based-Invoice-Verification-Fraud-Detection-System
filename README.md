@@ -1,4 +1,4 @@
-# -TReDS-Blockchain-Based-Invoice-Verification-Fraud-Detection-System
+# TReDS-Blockchain-Based-Invoice-Verification-Fraud-Detection-System
 
 Excited to present our Blockchain-powered FinTech project developed to enhance security, transparency, and trust within the TReDS (Trade Receivables Discounting System) ecosystem.
 
